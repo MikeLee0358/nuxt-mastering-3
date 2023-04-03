@@ -24,6 +24,6 @@
   "dependencies": {
     "stripe": "^11.10.0"
   },
-  "packageManager": "pnpm@6.3.2"
+  "packageManager": "pnpm@7.13.4"
 
 }
